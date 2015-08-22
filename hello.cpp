@@ -3,6 +3,7 @@
 int main()
 {
  int e;
+ int i;
  printf("hello git");
  printf("learning git");
  printf("*****");
