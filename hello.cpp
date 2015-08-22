@@ -2,10 +2,11 @@
 
 int main()
 {
+ int e;
  printf("hello git");
- print("learning git");
+ printf("learning git");
+ printf("*****");
 return(0);
-
 }
 
 
