@@ -1,6 +1,13 @@
 #include <stdio.h>
 
 int main()
+
+
+
+oihgjgkjg
+bbjklj
+
+lblblkb
 {
  int e;
  int i;
